@@ -1,4 +1,4 @@
-== Chapter 2
 // TODO: write one chapter
 
 //this should be rebased onto the "pull/push rebasing" commit on master
+// TODO: write two chapters
