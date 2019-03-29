@@ -1,2 +1,3 @@
 = Git In Practice
 Welcome to GIP v0.1.1.
+// inspiration_other to be rebased and force-pushed 
